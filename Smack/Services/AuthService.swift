@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import Alamofire
 
 class AuthService {
     
@@ -42,6 +43,16 @@ class AuthService {
         }
         
     }
+    
+    
+    func registerUser(email: String, password: String) {
+        
+        
+        
+    }
+    
+    
+    
     
     
 }
